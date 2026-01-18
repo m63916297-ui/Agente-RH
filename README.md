@@ -4,6 +4,9 @@
 
 Este proyecto es una prueba de concepto de un agente de chat inteligente para gestionar solicitudes de recursos humanos, específicamente enfocado en consultas sobre cesantías causadas. El sistema utiliza un modelo de lenguaje (LLM) para decidir si responder desde su conocimiento base o consultando el archivo de Excel con datos específicos.
 
+
+Visualiza el agente en la URL https://agentesumma.space.z.ai 
+
 ## 🎯 Objetivos Cumplidos
 
 ### ✅ 1. Construcción del Agente de Chat
